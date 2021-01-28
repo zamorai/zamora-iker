@@ -1,12 +1,12 @@
 #  Skill Name
 
-Author: FirstName LastName
+Author: Iker Zamora
 
-Date: YYYY-MM-DD
+Date: 2021-1-27
 -----
 
 ## Summary
-
+Created my personal Github folder
 
 ## Sketches and Photos
 
