@@ -1,3 +1,3 @@
 Editor Selection: Visual Studio Code
 
-(Github Skill)
+(Github skill)
