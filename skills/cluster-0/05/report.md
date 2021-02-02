@@ -1,12 +1,12 @@
 #  Skill Name
 
-Author: FirstName LastName
+Author: Iker Zamora
 
-Date: YYYY-MM-DD
+Date: 2021-02-01
 -----
 
 ## Summary
-
+My Adafruit board has not arrived yet, and there seems to be heavy delays due to growing demand and rough weather. I still managed to install and build all the necesary software. Images are attached. 
 
 ## Sketches and Photos
 
